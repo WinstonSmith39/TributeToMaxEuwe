@@ -1,0 +1,32 @@
+body {
+    background: #6acbd1;
+    font-family: "Tangerine", serif;
+    text-align: center;
+  }
+  
+  header h1 {
+    font-size: 96px;
+    line-height: 96px
+  }
+
+  main img {
+      max-width: 300px;
+      filter: grayscale(100%)
+  }
+
+  .images {
+      text-align: center;
+  }
+
+  .chessboard{
+          transform: translate(96px, -25%);
+  }
+  
+  footer {
+    position: absolute;
+    left: 0;
+    bottom: 16px;
+    width: 100%;
+    font-size: 24px;
+  }
+  
